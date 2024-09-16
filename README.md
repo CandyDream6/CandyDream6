@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=33A0F7&width=435&lines=Candy+Dreams)](https://git.io/typing-svg)
+
+![](https://raw.githubusercontent.com/tgmenggithub/tgmenggithub/main/dist/github-contribution-grid-snake.svg)
