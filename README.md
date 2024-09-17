@@ -36,6 +36,9 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/tgmenggithub/tgmenggithub/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/tgmenggithub/tgmenggithub/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
+
+![](https://raw.githubusercontent.com/tgmenggithub/tgmenggithub/main/assets/github-contribution-grid-snake.svg)
+
 </div>
 <!-- ########################################## 分割 ########################################## -->
 <div align="center" >
