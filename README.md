@@ -37,8 +37,11 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/tgmenggithub/tgmenggithub/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
-![](https://raw.githubusercontent.com/tgmenggithub/tgmenggithub/main/assets/github-contribution-grid-snake.svg)
-![](https://raw.githubusercontent.com/tgmenggithub/tgmenggithub/main/dist/github-contribution-grid-snake.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tgmenggithub/tgmenggithub/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/tgmenggithub/tgmenggithub/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/tgmenggithub/tgmenggithub/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 
 ![](https://github.com/tgmenggithub/tgmenggithub/blob/output/github-contribution-grid-snake.svg)
 </div>
