@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=33A0F7&width=435&lines=Candy+Dreams)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tgmenggithub)](https://github.com/tgmenggithub/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tgmenggithub&count_private=true)](https://github.com/tgmenggithub/github-readme-stats)
