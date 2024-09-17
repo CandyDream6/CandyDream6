@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgmenggithub)](https://github.com/tgmenggithub/github-readme-stats)
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=33A0F7&width=435&lines=Candy+Dreams" /> </div>
+<div align="center"> <img src="httpsgithub-readme-stats.vercel.appapiusername=tgmenggithub&count_private=true&show_icons=true&theme=cobalt" /> </div>
