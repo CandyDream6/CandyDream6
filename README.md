@@ -161,10 +161,10 @@
         </picture>
     </tr>
   </table>
-
-  ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tgmenggithub/tgmenggithub&type=Date)](https://star-history.com/#tgmenggithub/tgmenggithub&Date)
+  
+  
+  <!-- Star History -->
+  [![Star History Chart](https://api.star-history.com/svg?repos=tgmenggithub/tgmenggithub&type=Date)](https://star-history.com/#tgmenggithub/tgmenggithub&Date)
 </div>
 
 
