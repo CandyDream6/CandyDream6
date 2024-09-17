@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 
 <div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgmenggithub"/> </div>
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
 <!-- GitHub 奖杯🏆 -->
 <div><img src="https://github-profile-trophy.vercel.app/?username=tgmenggithub&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
