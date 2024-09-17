@@ -38,7 +38,7 @@
   </picture>
 
 ![](https://raw.githubusercontent.com/tgmenggithub/tgmenggithub/main/assets/github-contribution-grid-snake.svg)
-
+![](https://raw.githubusercontent.com/tgmenggithub/tgmenggithub/main/dist/github-contribution-grid-snake.svg)
 </div>
 <!-- ########################################## 分割 ########################################## -->
 <div align="center" >
