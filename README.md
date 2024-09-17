@@ -38,12 +38,14 @@
   </picture>
 </div>
 
+
+
 <!-- ########################################## 分割 ########################################## -->
 <div align="center">
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+  
   <!-- run 图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
-
   
   <!-- github-readme-streak-stats 连续提交代码天数记录 -->
   <div>
@@ -55,6 +57,7 @@
     </picture>
     <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
   </div>
+  
   <!-- GitHub Activity Graph GitHub 活动图 -->
   <table>
     <tr>
@@ -66,7 +69,6 @@
         </picture>
     </tr>
   </table>
-
 </div>
 
 
