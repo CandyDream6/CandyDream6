@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgmenggithub)](https://github.com/tgmenggithub/github-readme-stats)
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tgmenggithub&count_private=true&show_icons=true&theme=cobalt"/> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tgmenggithub&count_private=true&show_icons=true&theme=cobalt" /> </div>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgmenggithub"/> </div>
