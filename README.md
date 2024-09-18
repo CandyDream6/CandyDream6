@@ -178,6 +178,15 @@
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tgmenggithub&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=cobalt" />
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tgmenggithub&hide_border=true&theme=cobalt" /><br>
 
+  <!-- github profile contributions chart -->
+  <p align="center" >
+  	<picture>
+  	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tgmenggithub/tgmenggithub/output-3d-contrib/night.svg" />
+  	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tgmenggithub/tgmenggithub/output-3d-contrib/day.svg" />
+  	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/tgmenggithub/tgmenggithub/output-3d-contrib/day.svg" />
+  	</picture>
+  </p>
+
   <!-- Star History -->
   <a href="https://star-history.com/#tgmenggithub/tgmenggithub&Date">
    <picture>
@@ -187,16 +196,8 @@
    </picture>
   </a>
 
-  <p align="center" >
-  	<picture>
-  	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tgmenggithub/tgmenggithub/output-3d-contrib/night.svg" />
-  	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tgmenggithub/tgmenggithub/output-3d-contrib/day.svg" />
-  	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/tgmenggithub/tgmenggithub/output-3d-contrib/day.svg" />
-  	</picture>
-  </p>
-
+  <!-- websitecounterfree -->
   <div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=59277&s=1' border='0' alt='Free Website Counter'></a><br / ><small><a href='https://www.websitecounterfree.com' title="Free Website Counter">Free Website Counter</a></small></div>
-
 
 </div>
 
