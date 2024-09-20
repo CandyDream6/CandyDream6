@@ -45,7 +45,7 @@
   
   ### 🤺 About Me
   
-  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/tgmenggithub/jsdelivr/github/image/jobs.png" />
   
   <p>&emsp;&emsp;嗨，你好，我是小马同学。热爱编程、摄影、读书、旅行。</p>
   <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
@@ -85,7 +85,7 @@
   
   ### 📃 Recent Blog
   
-  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/tgmenggithub/jsdelivr/github/image/astronaut.png" />
   
   <!-- START_SECTION:blog -->
   * <a href='https://blog.sunguoqi.com/posts/kunlunchao/' target='_blank'>昆仑巢「疯狂星期六」，没有人是一座孤岛～</a> - 2024-03-18
@@ -101,7 +101,7 @@
   
   ### 🧠 Second Brain
   
-  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/tgmenggithub/jsdelivr/github/image//technologist.png" />
   
   <!-- START_SECTION:brain -->
   * <a href='https://brain.sunguoqi.com/web/frontend/guide/evolution.html' target='_blank'>前端开发演进史</a> - 2023-03-25
@@ -117,7 +117,7 @@
   
   ### 🤾‍♂️ Funny Soul
   
-  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/tgmenggithub/jsdelivr/github/image/artist.png" />
   
   <!-- START_SECTION:douban -->
   * <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
@@ -137,17 +137,17 @@
   <img width="200%" src="https://cdn.jsdelivr.net/gh/tgmenggithub/jsdelivr/github/gif/hr.gif" />
   
   <!-- run 图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+  <img src="https://cdn.jsdelivr.net/gh/tgmenggithub/jsdelivr/github/image/man_run.png" width="250" height="250" />
   
   <!-- github-readme-streak-stats 连续提交代码天数记录 -->
   <div>
-    <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+    <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/tgmenggithub/jsdelivr/github/image/left.png" />
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tgmenggithub&theme=dark&hide_border=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tgmenggithub&theme=light&hide_border=true" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
     </picture>
-    <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+    <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/tgmenggithub/jsdelivr/github/image/right.png" />
   </div>
   
   <!-- GitHub Activity Graph GitHub 活动图 -->
