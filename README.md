@@ -13,7 +13,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/tgmenggithub/jsdelivr/github/image/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/tgmenggithub/jsdelivr/github/gif/coding.gif" />
   </picture>
-https://cdn.jsdelivr.net/gh/tgmenggithub/jsdelivr/github/image/developer.svg
+
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
