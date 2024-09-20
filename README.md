@@ -134,7 +134,7 @@
 
 <!-- ########################################## 分割 ########################################## -->
 <div align="center">
-  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/tgmenggithub/jsdelivr/github/gif/hr.gif" />
   
   <!-- run 图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
